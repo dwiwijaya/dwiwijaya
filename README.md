@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- ⌨️ I'm using **PHP (Codeigniter), CSS (Bootstrap, Tailwind) and Database(MySQL)**
+- ⌨️ I'm using PHP (**Codeigniter**), CSS (**Bootstrap** and **Tailwind**) and Database(**MySQL**)
 
 - 📫 How to reach me **11dwiwijaya@gmail.com**
 

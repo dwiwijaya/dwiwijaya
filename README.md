@@ -5,9 +5,9 @@
 
 - 🎓 I'm a fresh graduated from **SMKN 2 Karanganyar**
 
-- 🌱 I’m currently learning **React**, 
+- 🌱 I’m currently learning **React**
 
-- **</>** I'm currently using PHP (Codeigniter), CSS (Bootstrap, Tailwind) and Database(MySQL)
+- ⌨️ I'm using **PHP (Codeigniter), CSS (Bootstrap, Tailwind) and Database(MySQL)**
 
 - 📫 How to reach me **11dwiwijaya@gmail.com**
 

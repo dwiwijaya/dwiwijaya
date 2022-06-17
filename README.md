@@ -5,11 +5,13 @@
 
 - 🎓 I'm a fresh graduated from **SMKN 2 Karanganyar**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**, 
+
+- **</>** I'm currently using PHP (Codeigniter), CSS (Bootstrap, Tailwind) and Database(MySQL)
 
 - 📫 How to reach me **11dwiwijaya@gmail.com**
 
-- ⚡ Fun fact **I like to watch movies and series**
+- ⚡ Fun fact **I also like to learn bout Grapics Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

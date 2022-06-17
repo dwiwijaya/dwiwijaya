@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dwi Wijaya</h1>
-<h3 align="center">I'm a junior Web developer, from Surakarta</h3>
+<h3 align="center">I'm a 18 y.o junior Web developer, from Surakarta</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=11dwiwijaya&label=Profile%20views&color=0e75b6&style=flat" alt="11dwiwijaya" /> </p>
 
-- 🎓 I'm a fresh graduation from **SMKN 2 Karanganyar**
+- 🎓 I'm a fresh graduated from **SMKN 2 Karanganyar**
 
 - 🌱 I’m currently learning **React**
 

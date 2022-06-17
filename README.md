@@ -9,9 +9,10 @@
 
 - ⌨️ I'm using PHP (**Codeigniter**), CSS (**Bootstrap** and **Tailwind**) and Database(**MySQL**)
 
+- ⚡ Fun fact **I also like to learn bout Grapics Design**
+
 - 📫 How to reach me **11dwiwijaya@gmail.com**
 
-- ⚡ Fun fact **I also like to learn bout Grapics Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

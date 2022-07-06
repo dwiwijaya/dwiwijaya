@@ -5,9 +5,9 @@
 
 - 🎓 I'm a fresh graduated from **SMKN 2 Karanganyar**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Yii2 framework**
 
-- ⌨️ I'm using PHP (**Codeigniter**), CSS (**Bootstrap** and **Tailwind**) and Database(**MySQL**)
+- ⌨️ I'm using PHP (**Codeigniter, Yii2**), CSS (**Bootstrap** and **Tailwind**) and Database(**MySQL**)
 
 - ⚡ Fun fact **I also like to learn bout Grapics Design**
 

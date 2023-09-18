@@ -1,21 +1,39 @@
-<h1 align="center">Hi 👋, I'm Dwi Wijaya</h1>
-<h3 align="center">I'm a 18 y.o Junior Web Developer, from Surakarta</h3>
+# Dwi Wijaya's Web Full Stack Developer Portfolio
 
-<br>
+Welcome to my GitHub portfolio! I'm Dwi Wijaya, a passionate web full-stack developer, and this is where I showcase my projects and skills.
 
-- 🎓 I'm a fresh graduated from **SMKN 2 Karanganyar**
+## 🚀 Skills
 
-- 🌱 I’m currently learning **Yii2 framework**
+- **Front-end Development**: HTML, CSS, JavaScript, React, Bootstrap, Tailwind & Astro
+- **Back-end Development**: Node.js, Express, PHP, Yii2, Codeigniter
+- **Database Management**: SQL, MongoDB
+- **Version Control**: Git, GitHub
+- **UI/UX Design**: Figma, Adobe XD
+- **Deployment**: Vercel, Netlify, Cpanel
+- **Other**: RESTful APIs, Responsive Design
 
-- ⌨️ I'm using PHP (**Codeigniter, Yii2**), CSS (**Bootstrap** and **Tailwind**) and Database(**MySQL**)
-
-- ⚡ Fun fact **I also like to learn bout Grapics Design**
-
-- 📫 How to reach me **11dwiwijaya@gmail.com**
+## 📖 Currently Learning
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 💬 Get in Touch
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=11dwiwijaya&show_icons=true&locale=en&layout=compact" alt="11dwiwijaya" /></p>
+I'm always open to new opportunities and collaborations. Feel free to reach out to me via [Email](mailto:11dwiwijaya@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dwi-wijaya-342bbb237//).
+
+## 🌐 Visit My Website
+
+Explore more about my work and experience on my [personal website](https://11dwiwijaya.me/).
+
+## 📄 Resume
+
+You can find my detailed resume [here](#).
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+---
+
+Enjoy exploring my portfolio, and let's create something awesome together! If you have any questions or suggestions, don't hesitate to get in touch. 🚀
+
+---
+
+*Note: Replace `[Your Name]`, `[Your Email]`, `[Your LinkedIn]`, `[Your Website]`, and other placeholders with your actual information and links.*

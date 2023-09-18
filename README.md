@@ -21,7 +21,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 
 ## 🌐 Visit My Website
 
-Explore more about my work and experience on my [personal website](https://11dwiwijaya.me/).
+Explore more about my work and experience on my [personal website](https://dwiwijaya.me/).
 
 ## 📄 Resume
 
@@ -36,4 +36,3 @@ Enjoy exploring my portfolio, and let's create something awesome together! If yo
 
 ---
 
-*Note: Replace `[Your Name]`, `[Your Email]`, `[Your LinkedIn]`, `[Your Website]`, and other placeholders with your actual information and links.*

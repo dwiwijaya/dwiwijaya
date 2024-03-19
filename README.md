@@ -14,7 +14,7 @@ Welcome to my GitHub portfolio! I'm Dwi Wijaya, a passionate web full-stack deve
 
 ## 📖 Currently Learning
 
-- ** React, Mongodb, Node
+- MERN
 
 ## 💬 Get in Touch
 

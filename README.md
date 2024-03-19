@@ -18,7 +18,7 @@ Welcome to my GitHub portfolio! I'm Dwi Wijaya, a passionate web full-stack deve
 
 ## 💬 Get in Touch
 
-I'm always open to new opportunities and collaborations. Feel free to reach out to me via [Email](mailto:work.dwiwijaya@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dwi-wijaya-342bbb237//).
+I'm always open to new opportunities and collaborations. Feel free to reach out to me via [Email](mailto:work.dwiwijaya@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dwi-wijaya//).
 
 ## 🌐 Visit My Website
 

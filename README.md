@@ -7,21 +7,22 @@ Welcome to my GitHub portfolio! I'm Dwi Wijaya, a passionate web full-stack deve
 - **Front-end Development**: HTML, CSS, JavaScript, React, Bootstrap, Tailwind & Astro
 - **Back-end Development**: Node.js, Express, PHP, Yii2, Codeigniter
 - **Database Management**: SQL, MongoDB
-- **Version Control**: Git, GitHub
-- **UI/UX Design**: Figma, Adobe XD
-- **Deployment**: Vercel, Netlify, Cpanel
-- **Other**: RESTful APIs, Responsive Design
+- **Version Control**: Git, GitHub & Gitlab
+- **UI/UX Design**: Figma
+- **Deployment**: Vercel, Railway, Cpanel
+- **Other**: RESTful APIs, Responsive Design, PWA / Web Vitals
 
 ## 📖 Currently Learning
 
+- ** React, Mongodb, Node
 
 ## 💬 Get in Touch
 
-I'm always open to new opportunities and collaborations. Feel free to reach out to me via [Email](mailto:11dwiwijaya@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dwi-wijaya-342bbb237//).
+I'm always open to new opportunities and collaborations. Feel free to reach out to me via [Email](mailto:work.dwiwijaya@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dwi-wijaya-342bbb237//).
 
 ## 🌐 Visit My Website
 
-Explore more about my work and experience on my [personal website](https://dwiwijaya.me/).
+Explore more about my work and experience on my [personal website](https://dwi-wijaya.vercel-app/).
 
 ## 📄 Resume
 

@@ -4,13 +4,13 @@ Welcome to my GitHub portfolio! I'm Dwi Wijaya, a passionate web full-stack deve
 
 ## 🚀 Skills
 
-- **Front-end Development**: HTML, CSS, JavaScript, React, Bootstrap, Tailwind & Astro
-- **Back-end Development**: Node.js, Express, PHP, Yii2, Codeigniter
+- **Front-end Development**: HTML, CSS, SASS, JavaScript, React, Bootstrap, Tailwind & Astro
+- **Back-end Development**: Node.js, Express, PHP, Firebase, Yii2 & Codeigniter
 - **Database Management**: SQL, MongoDB
 - **Version Control**: Git, GitHub & Gitlab
-- **UI/UX Design**: Figma
-- **Deployment**: Vercel, Railway, Cpanel
-- **Other**: RESTful APIs, Responsive Design, PWA / Web Vitals
+- **Design**: Adobe Illustration & Figma
+- **Deployment**: Vercel, Railway & Cpanel
+- **Other**: RESTful APIs, Responsive Design & PWA / Web Vitals
 
 ## 📖 Currently Learning
 
@@ -28,8 +28,6 @@ Explore more about my work and experience on my [personal website](https://dwi-w
 
 You can find my detailed resume [here](#).
 ## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 

@@ -4,9 +4,9 @@ Welcome to my GitHub portfolio! I'm Dwi Wijaya, a passionate web full-stack deve
 
 ## 🚀 Skills
 
-- **Front-end Development**: HTML, CSS, SASS, JavaScript, React, Bootstrap, Tailwind & Astro
-- **Back-end Development**: Node.js, Express, PHP, Firebase, Yii2 & Codeigniter
-- **Database Management**: SQL, MongoDB
+- **Front-end Development**: HTML, CSS, SASS, Less, JavaScript, React, Bootstrap, Tailwind & Astro
+- **Back-end Development**: Node.js, Express, PHP, Firebase, Yii & Codeigniter
+- **Database Management**: SQL, MongoDB and Firestore
 - **Version Control**: Git, GitHub & Gitlab
 - **Design**: Adobe Illustration & Figma
 - **Deployment**: Vercel, Railway & Cpanel

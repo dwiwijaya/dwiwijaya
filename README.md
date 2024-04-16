@@ -22,7 +22,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 
 ## 🌐 Visit My Website
 
-Explore more about my work and experience on my [personal website](https://dwi-wijaya.vercel.app/).
+Explore more about my work and experience on my [personal website](https://dwiwijaya.vercel.app/).
 
 ## 📄 Resume
 

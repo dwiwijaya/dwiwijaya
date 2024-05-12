@@ -14,7 +14,7 @@ Welcome to my GitHub portfolio! I'm Dwi Wijaya, a passionate web full-stack deve
 
 ## 📖 Currently Learning
 
-- MERN & Next.js
+- Vue & Next.js
 
 ## 💬 Get in Touch
 

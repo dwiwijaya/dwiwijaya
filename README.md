@@ -26,7 +26,7 @@ Explore more about my work and experience on my [personal website](https://dwiwi
 
 ## 📄 Resume
 
-You can find my detailed resume [here](https://docs.google.com/document/d/1O7gzfe11VSWRa-zy8hzBO9ndZ-f4IFQlVgPITh2O8tY/edit).
+You can find my detailed resume [here](https://bitl.ly/cv-dwiwijaya).
 ## 📝 License
 
 ---

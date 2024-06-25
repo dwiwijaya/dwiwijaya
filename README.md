@@ -1,33 +1,35 @@
 ![Banner](assets/blue-geometric-banner.png)
 
 ```javascript
-const Dwiwijaya = {
-
-    username: 'dwi-wijaya',
-    name: 'Dwi Wijaya',
-    position: 'Fullstack Developer',
-    web: 'https://dwiwijaya.com',
-    links: 'https://mylinks-app.vercel.app/dwiwijaya',
-    cv: 'https://bit.ly/cv-dwiwijaya',
-    linkedin: 'https://linkedin.com/in/dwi-wijaya',
-    mail: 'work.dwiwijaya@gmail.com',
-    code: {
-        backend: ['PHP', 'Codeigniter', 'Yii2', 'NodeJS'],
-        database: ['PostgreSQL', 'MySQL', 'Oracle', 'MongoDB'],
-        frontend: ['HTML', 'CSS', 'JS', 'Jquery', 'ReactJS', 'Vue.js', 'Next.js', 'Bootstrap', 'Tailwind', 'Sass'],
-        tools: ['GIT', 'GitHub', 'GitLab', 'Lighthouse', 'Ngrok', 'Dbeaver'],
-        misc: ['Firebase', 'SCRUM', 'SOLID', 'PWA']
-    },
-    architecture: ['SPA', 'MVC'],
-    currentlylearning: ['Vue.js', 'Nuxt.js'],
-
-    toString: function() {
-        return `${this.name} | ${this.position}`;
+class Dwiwijaya {
+    constructor() {
+        this.username = 'dwi-wijaya';
+        this.name = 'Dwi Wijaya';
+        this.position = 'Full-stack Web Developer';
+        this.web = 'https://dwiwijaya.com';
+        this.links = 'https://mylinks-app.vercel.app/dwiwijaya';
+        this.cv = 'https://bit.ly/cv-dwiwijaya';
+        this.linkedin = 'https://linkedin.com/in/dwi-wijaya';
+        this.mail = 'work.dwiwijaya@gmail.com';
+        this.code = {
+            backend: ['PHP', 'Codeigniter', 'Yii2', 'NodeJS'],
+            database: ['PostgreSQL', 'MySQL', 'Oracle', 'MongoDB'],
+            frontend: ['HTML', 'CSS', 'JS', 'Jquery', 'ReactJS', 'Vue.js', 'Next.js', 'Bootstrap', 'Tailwind', 'Sass'],
+            tools: ['GIT', 'GitHub', 'GitLab', 'Lighthouse', 'Ngrok', 'Dbeaver'],
+            misc: ['Firebase', 'SCRUM', 'SOLID', 'PWA']
+        };
+        this.architecture = ['SPA', 'MVC'];
+        this.currentlylearning = ['Vue.js', 'Nuxt.js'];
     }
 
-};
+    getProfile() {
+        return `${this.name} | ${this.position}`;
+    }
+}
 
-console.log(Dwiwijaya.toString());
+const dwiwijaya = new Dwiwijaya();
+console.log(dwiwijaya.getProfile());
+
 ```
 
 ## Get in touch 🌐

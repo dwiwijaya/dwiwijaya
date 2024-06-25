@@ -37,3 +37,4 @@ console.log(Dwiwijaya.toString());
 - CV Resume: https://bit.ly/cv-dwiwijaya
 - Mail: work.dwiwijaya@gmail.com
 
+[![](https://visitcount.itsvg.in/api?id=dwi-wijaya&icon=2&color=3)](https://visitcount.itsvg.in)

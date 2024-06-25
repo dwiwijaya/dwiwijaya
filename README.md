@@ -1,4 +1,4 @@
-![Banner](assets/blue-geometric-banner.png)
+![Banner](assets/blue-geometric-banner-new.png)
 
 ```javascript
 const Dwiwijaya = {

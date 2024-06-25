@@ -10,7 +10,7 @@ class Dwiwijaya {
         this.links = 'https://mylinks-app.vercel.app/dwiwijaya';
         this.cv = 'https://bit.ly/cv-dwiwijaya';
         this.linkedin = 'https://linkedin.com/in/dwi-wijaya';
-        this.mail = 'work.dwiwijaya@gmail.com';
+        this.email = 'work.dwiwijaya@gmail.com';
         this.code = {
             backend: ['PHP', 'Codeigniter', 'Yii2', 'NodeJS'],
             database: ['PostgreSQL', 'MySQL', 'Oracle', 'MongoDB'],
@@ -37,6 +37,6 @@ console.log(dwiwijaya.getProfile());
 - Personal Site: https://dwiwijaya.com
 - Links: https://mylinks-app.vercel.app/dwiwijaya
 - CV Resume: https://bit.ly/cv-dwiwijaya
-- Mail: work.dwiwijaya@gmail.com <br>
+- Email: work.dwiwijaya@gmail.com <br>
 
 [![](https://visitcount.itsvg.in/api?id=dwi-wijaya&icon=2&color=3)](https://visitcount.itsvg.in)

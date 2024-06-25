@@ -18,7 +18,7 @@ class Dwiwijaya {
             tools: ['GIT', 'GitHub', 'GitLab', 'Lighthouse', 'Ngrok', 'Dbeaver'],
             misc: ['Firebase', 'SCRUM', 'SOLID']
         };
-        this.architecture = ['SPA', 'MVC', 'Monolithic', 'PWA', 'RESTful'];
+        this.architecture = ['SPA', 'PWA', 'MVC', 'Monolithic', 'RESTful'];
         this.currentlylearning = ['Vue.js', 'Nuxt.js'];
     }
 

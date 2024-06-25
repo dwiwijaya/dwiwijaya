@@ -30,11 +30,11 @@ const Dwiwijaya = {
 console.log(Dwiwijaya.toString());
 ```
 
-## Get in touch
+## Get in touch 🌐
 
 - Personal Site: https://dwiwijaya.com
 - Links: https://mylinks-app.vercel.app/dwiwijaya
 - CV Resume: https://bit.ly/cv-dwiwijaya
-- Mail: work.dwiwijaya@gmail.com
+- Mail: work.dwiwijaya@gmail.com <br>
 
 [![](https://visitcount.itsvg.in/api?id=dwi-wijaya&icon=2&color=3)](https://visitcount.itsvg.in)

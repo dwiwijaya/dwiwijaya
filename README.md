@@ -14,7 +14,7 @@ const Dwiwijaya = {
     code: {
         backend: ['PHP', 'Codeigniter', 'Yii2', 'NodeJS'],
         database: ['PostgreSQL', 'MySQL', 'Oracle', 'MongoDB'],
-        frontend: ['HTML', 'CSS', 'JavaScript', 'Jquery', 'ReactJS', 'Vue.js', 'Next.js', 'Bootstrap', 'Tailwind', 'Sass'],
+        frontend: ['HTML', 'CSS', 'JS', 'Jquery', 'ReactJS', 'Vue.js', 'Next.js', 'Bootstrap', 'Tailwind', 'Sass'],
         tools: ['GIT', 'GitHub', 'GitLab', 'Lighthouse', 'Ngrok', 'Dbeaver'],
         misc: ['Firebase', 'SCRUM', 'SOLID', 'PWA']
     },

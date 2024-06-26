@@ -15,7 +15,7 @@ class Dwiwijaya {
             backend: ['PHP', 'Codeigniter', 'Yii2', 'NodeJS'],
             database: ['PostgreSQL', 'MySQL', 'Oracle', 'MongoDB'],
             frontend: ['HTML', 'CSS', 'JS', 'Jquery', 'ReactJS', 'Vue.js', 'Next.js', 'Bootstrap', 'Tailwind', 'Sass'],
-            tools: ['GIT', 'GitHub', 'GitLab', 'Lighthouse', 'Ngrok', 'Dbeaver'],
+            tools: ['GIT', 'GitHub', 'GitLab', 'Lighthouse', 'Ngrok', 'Dbeaver', 'Vercel'],
             misc: ['Firebase', 'SCRUM', 'SOLID']
         };
         this.architecture = ['SPA', 'PWA', 'MVC', 'Monolithic', 'RESTful'];

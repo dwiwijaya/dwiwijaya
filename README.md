@@ -16,7 +16,7 @@ class Dwiwijaya {
             database: ['PostgreSQL', 'MySQL', 'Oracle', 'MongoDB'],
             frontend: ['HTML', 'CSS', 'JS', 'Jquery', 'ReactJS', 'Vue.js', 'Next.js', 'Bootstrap', 'Tailwind', 'Sass'],
             tools: ['GIT', 'GitHub', 'GitLab', 'Lighthouse', 'Ngrok', 'Dbeaver', 'Vercel'],
-            misc: ['Firebase', 'SCRUM', 'SOLID']
+            misc: ['Firebase', 'Supabase', 'SCRUM', 'SOLID']
         };
         this.architecture = ['SPA', 'PWA', 'MVC', 'Monolithic', 'RESTful'];
         this.currentlylearning = ['Vue.js', 'Nuxt.js'];

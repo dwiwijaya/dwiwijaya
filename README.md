@@ -10,7 +10,7 @@ class Dwiwijaya {
         this.links = 'https://mylinks-app.vercel.app/dwiwijaya';
         this.cv = 'https://bit.ly/cv-dwiwijaya';
         this.linkedin = 'https://linkedin.com/in/dwi-wijaya';
-        this.email = 'work.dwiwijaya@gmail.com';
+        this.email = 'hello@dwiwijaya.com';
         this.code = {
             backend: ['PHP', 'Codeigniter', 'Yii2', 'NodeJS'],
             database: ['PostgreSQL', 'MySQL', 'Oracle', 'MongoDB'],

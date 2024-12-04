@@ -37,6 +37,6 @@ console.log(dwiwijaya.getProfile());
 - Personal Site: https://dwiwijaya.com
 - Links: https://mylinks-app.vercel.app/dwiwijaya
 - CV Resume: https://bit.ly/cv-dwiwijaya
-- Email: work.dwiwijaya@gmail.com <br>
+- Email: hello@dwiwijaya.com <br>
 
 [![](https://visitcount.itsvg.in/api?id=dwi-wijaya&icon=2&color=3)](https://visitcount.itsvg.in)

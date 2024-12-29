@@ -12,7 +12,7 @@ class Dwiwijaya {
         this.linkedin = 'https://linkedin.com/in/dwi-wijaya';
         this.email = 'hello@dwiwijaya.com';
         this.code = {
-            language: ['PHP', 'Javascript']
+            language: ['PHP', 'Javascript', 'Typescript']
             backend: ['Codeigniter', 'Yii2', 'NodeJS'],
             database: ['PostgreSQL', 'MySQL', 'Oracle', 'MongoDB'],
             frontend: ['HTML', 'CSS', 'JS', 'Jquery', 'ReactJS', 'Vue.js', 'Next.js', 'Bootstrap', 'Tailwind', 'Sass'],

@@ -12,11 +12,12 @@ class Dwiwijaya {
         this.linkedin = 'https://linkedin.com/in/dwi-wijaya';
         this.email = 'hello@dwiwijaya.com';
         this.code = {
-            backend: ['PHP', 'Codeigniter', 'Yii2', 'NodeJS'],
+            language: ['PHP', 'Javascript']
+            backend: ['Codeigniter', 'Yii2', 'NodeJS'],
             database: ['PostgreSQL', 'MySQL', 'Oracle', 'MongoDB'],
             frontend: ['HTML', 'CSS', 'JS', 'Jquery', 'ReactJS', 'Vue.js', 'Next.js', 'Bootstrap', 'Tailwind', 'Sass'],
-            tools: ['GIT', 'GitHub', 'GitLab', 'Lighthouse', 'Ngrok', 'Dbeaver', 'Vercel'],
-            misc: ['Firebase', 'Supabase', 'SCRUM', 'SOLID']
+            tools: ['GIT', 'GitHub', 'GitLab', 'Lighthouse', 'Ngrok', 'Dbeaver', 'Vercel', 'Firebase', 'Supabase'],
+            misc: ['SCRUM', 'SOLID']
         };
         this.architecture = ['SPA', 'PWA', 'MVC', 'Monolithic', 'RESTful'];
         this.currentlylearning = ['Vue.js', 'Nuxt.js'];

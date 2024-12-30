@@ -13,7 +13,7 @@ class Dwiwijaya {
         this.email = 'hello@dwiwijaya.com';
         this.code = {
             language: ['PHP', 'Javascript', 'Typescript'],
-            backend: ['Codeigniter', 'Yii2', 'NodeJS'],
+            backend: ['Codeigniter', 'Yii2', 'NodeJS', 'RESTful', 'GraphQL'],
             database: ['PostgreSQL', 'MySQL', 'Oracle', 'MongoDB'],
             frontend: ['HTML', 'CSS', 'JS', 'Jquery', 'ReactJS', 'Vue.js', 'Next.js', 'Bootstrap', 'Tailwind', 'Sass'],
             tools: ['GIT', 'GitHub', 'GitLab', 'Lighthouse', 'Ngrok', 'Dbeaver', 'Vercel', 'Firebase', 'Supabase'],

@@ -5,7 +5,7 @@
 ```javascript
 class Dwiwijaya {
     constructor() {
-        this.username = 'dwi-wijaya';
+        this.username = 'dwiwijaya';
         this.name = 'Dwi Wijaya';
         this.position = 'Full-stack Web Developer';
         this.web = 'https://dwiwijaya.com';

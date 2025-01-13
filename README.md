@@ -1,5 +1,7 @@
 ![Banner](assets/blue-geometric-banner.png)
 
+---
+
 ```javascript
 class Dwiwijaya {
     constructor() {
@@ -11,16 +13,16 @@ class Dwiwijaya {
         this.cv = 'https://bit.ly/cv-dwiwijaya';
         this.linkedin = 'https://linkedin.com/in/dwi-wijaya';
         this.email = 'hello@dwiwijaya.com';
-        this.code = {
-            language: ['PHP', 'Javascript', 'Typescript'],
-            backend: ['Codeigniter', 'Yii2', 'NodeJS', 'RESTful', 'GraphQL'],
+        this.skills = {
+            languages: ['PHP', 'JavaScript', 'TypeScript'],
+            backend: ['CodeIgniter', 'Yii2', 'Node.js', 'RESTful APIs', 'GraphQL'],
             database: ['PostgreSQL', 'MySQL', 'Oracle', 'MongoDB'],
-            frontend: ['HTML', 'CSS', 'JS', 'Jquery', 'ReactJS', 'Vue.js', 'Next.js', 'Bootstrap', 'Tailwind', 'Sass'],
-            tools: ['GIT', 'GitHub', 'GitLab', 'Lighthouse', 'Ngrok', 'Dbeaver', 'Vercel', 'Firebase', 'Supabase'],
-            misc: ['SCRUM', 'SOLID']
+            frontend: ['HTML', 'CSS', 'JavaScript', 'jQuery', 'React.js', 'Vue.js', 'Next.js', 'Bootstrap', 'Tailwind', 'Sass'],
+            tools: ['Git', 'GitHub', 'GitLab', 'Lighthouse', 'Ngrok', 'DBeaver', 'Vercel', 'Firebase', 'Supabase'],
+            methodologies: ['SCRUM', 'SOLID'],
+            architecture: ['SPA', 'PWA', 'MVC', 'Monolithic', 'RESTful'],
         };
-        this.architecture = ['SPA', 'PWA', 'MVC', 'Monolithic', 'RESTful'];
-        this.currentlylearning = ['Vue.js', 'Nuxt.js'];
+        this.currentlyLearning = ['Vue.js', 'Nuxt.js'];
     }
 
     getProfile() {
@@ -38,6 +40,7 @@ console.log(dwiwijaya.getProfile());
 - Personal Site: https://dwiwijaya.com
 - Links: https://mylinks-app.vercel.app/dwiwijaya
 - CV Resume: https://bit.ly/cv-dwiwijaya
-- Email: hello@dwiwijaya.com <br>
+- Email: hello@dwiwijaya.com 
+- Linked-in: https://linkedin.com/in/dwi-wijaya <br>
 
 [![](https://visitcount.itsvg.in/api?id=dwi-wijaya&icon=2&color=3)](https://visitcount.itsvg.in)

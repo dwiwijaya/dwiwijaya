@@ -9,7 +9,7 @@ class Dwiwijaya {
         this.name = 'Dwi Wijaya';
         this.position = 'Full-stack Web Developer';
         this.web = 'https://dwiwijaya.com';
-        this.links = 'https://mylinks-app.vercel.app/dwiwijaya';
+        this.links = 'https://bento.me/dwiwijaya';
         this.cv = 'https://bit.ly/cv-dwiwijaya';
         this.linkedin = 'https://linkedin.com/in/dwi-wijaya';
         this.email = 'hello@dwiwijaya.com';
@@ -38,9 +38,10 @@ console.log(dwiwijaya.getProfile());
 ## Get in touch 🌐
 
 - Personal Site: https://dwiwijaya.com
-- Links: https://mylinks-app.vercel.app/dwiwijaya
 - CV Resume: https://bit.ly/cv-dwiwijaya
+- Linked-in: https://linkedin.com/in/dwi-wijaya 
 - Email: hello@dwiwijaya.com 
-- Linked-in: https://linkedin.com/in/dwi-wijaya <br>
+- Links: https://bento.me/dwiwijaya
+<br>
 
 [![](https://visitcount.itsvg.in/api?id=dwi-wijaya&icon=2&color=3)](https://visitcount.itsvg.in)

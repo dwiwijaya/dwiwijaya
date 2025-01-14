@@ -4,7 +4,7 @@
 class Dwiwijaya {
     constructor() {
         this.username = 'dwiwijaya';
-        this.name = 'Dwi Wijaya';
+        this.name = 'Dwi-wijaya';
         this.position = 'Full-stack Web Developer';
         this.web = 'https://dwiwijaya.com';
         this.links = 'https://bento.me/dwiwijaya';

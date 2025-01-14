@@ -1,7 +1,5 @@
 ![Banner](assets/blue-geometric-banner.png)
 
----
-
 ```javascript
 class Dwiwijaya {
     constructor() {

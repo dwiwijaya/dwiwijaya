@@ -6,7 +6,7 @@ class Dwiwijaya {
         this.username = 'dwiwijaya';
         this.name = 'Dwi-wijaya';
         this.position = 'Full-stack Web Developer';
-        this.web = 'wwww.dwiwijaya.com';
+        this.web = 'www.dwiwijaya.com';
         this.links = 'www.bento.me/dwiwijaya';
         this.cv = 'www.bit.ly/cv-dwiwijaya';
         this.linkedin = 'www.linkedin.com/in/dwi-wijaya';

@@ -12,7 +12,7 @@ class Dwiwijaya {
         this.website = 'www.dwiwijaya.com';
         this.email = 'hello@dwiwijaya.com';
         this.skills = {
-            languages: ['PHP', 'JavaScript', 'TypeScript'],
+            language: ['PHP', 'JavaScript', 'TypeScript'],
             database: ['PostgreSQL', 'MySQL', 'Oracle', 'MongoDB'],
             frontend: [
                 'HTML', 'CSS', 'JavaScript',

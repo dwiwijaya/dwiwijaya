@@ -20,12 +20,12 @@ class Dwiwijaya {
                 'jQuery', 'React.js', 'Vue.js', 'Next.js',
             ],
             backend: ['CodeIgniter', 'Yii2', 'Node.js', 'RESTful', 'GraphQL'],
-            tools: [
-                'Git', 'GitHub', 'GitLab', 'Lighthouse',
-                'Ngrok', 'DBeaver', 'Vercel', 'Firebase', 'Supabase'
-            ],
             principles: ['SCRUM', 'SOLID', 'DRY', 'KISS', 'YAGNI', 'Clean Code'],
             architecture: ['SPA', 'PWA', 'MVC', 'Monolithic', 'RESTful'],
+            tools: [
+                'Git', 'GitHub', 'GitLab', 'Lighthouse', 'VS Code',
+                'Ngrok', 'DBeaver', 'Vercel', 'Firebase', 'Supabase'
+            ],
         };
         this.currentlyLearning = ['Vue.js', 'Nuxt.js'];
     }

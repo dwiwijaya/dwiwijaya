@@ -27,7 +27,6 @@ class Dwiwijaya {
                 'Ngrok', 'DBeaver', 'Vercel', 'Firebase', 'Supabase'
             ],
         };
-        this.currentlyLearning = ['Vue.js', 'Nuxt.js'];
     }
 
     getProfile() {

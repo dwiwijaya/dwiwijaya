@@ -41,9 +41,8 @@ console.log(dwiwijaya.getProfile());
 
 ## Get in touch 🌐
 
-
-- Website: www.dwiwijaya.com
 - Email: hello@dwiwijaya.com
+- Website: www.dwiwijaya.com
 - Links: www.bento.me/dwiwijaya
 - CV Resume: www.bit.ly/cv-dwiwijaya
 - Linked-in: www.linkedin.com/in/dwi-wijaya 

@@ -42,11 +42,13 @@ console.log(dwiwijaya.getProfile());
 
 ## Get in touch 🌐
 
-- Personal Site: https://dwiwijaya.com
-- CV Resume: https://bit.ly/cv-dwiwijaya
-- Linked-in: https://linkedin.com/in/dwi-wijaya 
-- Email: hello@dwiwijaya.com 
-- Links: https://bento.me/dwiwijaya
+
+- Website: www.dwiwijaya.com
+- Email: hello@dwiwijaya.com
+- Links: www.bento.me/dwiwijaya
+- CV Resume: www.bit.ly/cv-dwiwijaya
+- Linked-in: www.linkedin.com/in/dwi-wijaya 
+
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=dwi-wijaya&icon=2&color=3)](https://visitcount.itsvg.in)

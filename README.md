@@ -6,20 +6,20 @@ class Dwiwijaya {
         this.username = 'dwiwijaya';
         this.name = 'Dwi-wijaya';
         this.position = 'Full-stack Web Developer';
-        this.web = 'www.dwiwijaya.com';
+        this.linkedin = 'www.linkedin.com/in/dwi-wijaya';
         this.links = 'www.bento.me/dwiwijaya';
         this.cv = 'www.bit.ly/cv-dwiwijaya';
-        this.linkedin = 'www.linkedin.com/in/dwi-wijaya';
         this.email = 'hello@dwiwijaya.com';
+        this.web = 'www.dwiwijaya.com';
         this.skills = {
             languages: ['PHP', 'JavaScript', 'TypeScript'],
-            backend: ['CodeIgniter', 'Yii2', 'Node.js', 'RESTful APIs', 'GraphQL'],
             database: ['PostgreSQL', 'MySQL', 'Oracle', 'MongoDB'],
             frontend: [
                 'HTML', 'CSS', 'JavaScript',
-                'jQuery', 'React.js', 'Vue.js', 'Next.js',
                 'Bootstrap', 'Tailwind', 'Sass'
+                'jQuery', 'React.js', 'Vue.js', 'Next.js',
             ],
+            backend: ['CodeIgniter', 'Yii2', 'Node.js', 'RESTful', 'GraphQL'],
             tools: [
                 'Git', 'GitHub', 'GitLab', 'Lighthouse',
                 'Ngrok', 'DBeaver', 'Vercel', 'Firebase', 'Supabase'

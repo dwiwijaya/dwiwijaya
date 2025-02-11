@@ -10,7 +10,7 @@ class Dwiwijaya {
         this.links = 'www.bento.me/dwiwijaya';
         this.cv = 'www.bit.ly/cv-dwiwijaya';
         this.email = 'hello@dwiwijaya.com';
-        this.web = 'www.dwiwijaya.com';
+        this.website = 'www.dwiwijaya.com';
         this.skills = {
             languages: ['PHP', 'JavaScript', 'TypeScript'],
             database: ['PostgreSQL', 'MySQL', 'Oracle', 'MongoDB'],

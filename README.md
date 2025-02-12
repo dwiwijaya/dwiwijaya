@@ -21,7 +21,7 @@ class Dwiwijaya {
             ],
             backend: [
                 'CodeIgniter', 'Yii2', 'Node.js',
-                'RESTful', 'GraphQL'
+                'RESTful', 'GraphQL', 'Websocket'
             ],
             principles: ['SCRUM', 'SOLID', 'DRY', 'KISS', 'YAGNI'],
             architecture: ['SPA', 'PWA', 'MVC', 'Monolithic'],

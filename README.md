@@ -12,14 +12,17 @@ class Dwiwijaya {
         this.website = 'www.dwiwijaya.com';
         this.email = 'hello@dwiwijaya.com';
         this.skills = {
-            language: ['PHP', 'JavaScript', 'TypeScript'],
-            database: ['PostgreSQL', 'MySQL', 'Oracle', 'MongoDB'],
+            languages: ['PHP', 'JavaScript', 'TypeScript'],
+            databases: ['PostgreSQL', 'MySQL', 'Oracle', 'MongoDB'],
             frontend: [
                 'HTML', 'CSS', 'JavaScript',
                 'Bootstrap', 'Tailwind', 'Sass'
                 'jQuery', 'React.js', 'Vue.js', 'Next.js',
             ],
-            backend: ['CodeIgniter', 'Yii2', 'Node.js', 'RESTful', 'GraphQL'],
+            backend: [
+                'CodeIgniter', 'Yii2', 'Node.js',
+                'RESTful', 'GraphQL'
+            ],
             principles: ['SCRUM', 'SOLID', 'DRY', 'KISS', 'YAGNI', 'Clean Code'],
             architecture: ['SPA', 'PWA', 'MVC', 'Monolithic'],
             tools: [

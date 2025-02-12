@@ -23,7 +23,7 @@ class Dwiwijaya {
                 'CodeIgniter', 'Yii2', 'Node.js',
                 'RESTful', 'GraphQL'
             ],
-            principles: ['SCRUM', 'SOLID', 'DRY', 'KISS', 'YAGNI', 'Clean Code'],
+            principles: ['SCRUM', 'SOLID', 'DRY', 'KISS', 'YAGNI'],
             architecture: ['SPA', 'PWA', 'MVC', 'Monolithic'],
             tools: [
                 'Git', 'GitHub', 'GitLab', 'Lighthouse', 'VS Code',

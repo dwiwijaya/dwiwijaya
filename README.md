@@ -7,8 +7,8 @@ class Dwiwijaya {
         this.name = 'Dwi-wijaya';
         this.position = 'Full-stack Web Developer';
         this.linkedin = 'www.linkedin.com/in/dwi-wijaya';
+        this.resume = 'www.bit.ly/cv-dwiwijaya';
         this.links = 'www.bento.me/dwiwijaya';
-        this.cv = 'www.bit.ly/cv-dwiwijaya';
         this.website = 'www.dwiwijaya.com';
         this.email = 'hello@dwiwijaya.com';
         this.skills = {
@@ -47,7 +47,7 @@ console.log(dwiwijaya.getProfile());
 - Email: hello@dwiwijaya.com
 - Website: www.dwiwijaya.com
 - Links: www.bento.me/dwiwijaya
-- CV Resume: www.bit.ly/cv-dwiwijaya
+- Resume: www.bit.ly/cv-dwiwijaya
 - Linked-in: www.linkedin.com/in/dwi-wijaya 
 
 <br>

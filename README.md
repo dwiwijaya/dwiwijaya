@@ -3,8 +3,8 @@
 ```javascript
 class Dwiwijaya {
     constructor() {
-        this.username = 'dwiwijaya';
         this.name = 'Dwi-wijaya';
+        this.username = 'dwiwijaya';
         this.position = 'Full-stack Web Developer';
         this.linkedin = 'www.linkedin.com/in/dwi-wijaya';
         this.resume = 'www.bit.ly/cv-dwiwijaya';

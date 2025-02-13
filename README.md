@@ -17,8 +17,8 @@ class Dwiwijaya {
             databases: ['PostgreSQL', 'MySQL', 'Oracle', 'MongoDB'],
             frontend: [
                 'HTML', 'CSS', 'JavaScript',
-                'Bootstrap', 'Tailwind', 'Sass'
-                'jQuery', 'React.js', 'Vue.js', 'Next.js',
+                'Bootstrap', 'Tailwind', 'Sass',
+                'jQuery', 'React.js', 'Vue.js', 'Next.js'
             ],
             backend: [
                 'CodeIgniter', 'Yii2', 'Node.js',

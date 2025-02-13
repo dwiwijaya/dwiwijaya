@@ -13,7 +13,7 @@ class Dwiwijaya {
         this.email = 'hello@dwiwijaya.com';
         this.openToOpportunities = true;
         this.skills = {
-            languages: ['PHP', 'JavaScript', 'TypeScript'],
+            languages: ['PHP', 'JavaScript', 'TypeScript', 'SQL'],
             databases: ['PostgreSQL', 'MySQL', 'Oracle', 'MongoDB'],
             frontend: [
                 'HTML', 'CSS', 'JavaScript',

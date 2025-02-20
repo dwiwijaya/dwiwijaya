@@ -42,6 +42,9 @@ const dwiwijaya = new Dwiwijaya();
 console.log(dwiwijaya.getProfile());
 
 ```
+## Github Stastistic
+
+![dwiwijaya's github stats](https://github-readme-stats.vercel.app/api?username=dwiwijaya&show_icons=true&count_private=true&theme=dark)
 
 ## Get in touch 🌐
 
@@ -51,8 +54,6 @@ console.log(dwiwijaya.getProfile());
 - Resume: www.bit.ly/cv-dwiwijaya
 - Linked-in: www.linkedin.com/in/dwi-wijaya 
 
-<br>
-### Statistik Github
-![dwiwijaya's github stats](https://github-readme-stats.vercel.app/api?username=dwiwijaya&show_icons=true&count_private=true&theme=dark)
+
 
 [![](https://visitcount.itsvg.in/api?id=dwi-wijaya&icon=2&color=3)](https://visitcount.itsvg.in)

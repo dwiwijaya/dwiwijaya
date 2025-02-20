@@ -52,9 +52,6 @@ console.log(dwiwijaya.getProfile());
 - 💼 Linked-in : www.linkedin.com/in/dwi-wijaya 
 
 
-
-[![](https://visitcount.itsvg.in/api?id=dwi-wijaya&icon=2&color=3)](https://visitcount.itsvg.in)
-
 🌟 **Friendly Reminder**: I'm always excited to collaborate, hear your feedback, or just have a casual chat about web development. If my projects spark your interest, don't be shy — let's connect and create something awesome together! 🤝
 
 

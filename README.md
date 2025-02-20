@@ -45,7 +45,6 @@ console.log(dwiwijaya.getProfile());
 ## Github Stastistic 🚀
 
 ![dwiwijaya's Stats](https://github-readme-stats.vercel.app/api?username=dwiwijaya&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
-![dwiwijaya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dwiwijaya&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 ![dwiwijaya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dwiwijaya&theme=material-palenight&hide_border=true)
 
 ## Get in touch 📬

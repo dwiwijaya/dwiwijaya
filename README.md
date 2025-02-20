@@ -53,6 +53,6 @@ console.log(dwiwijaya.getProfile());
 
 ##
 
-🌟 **Friendly Reminder** : I'm always excited to collaborate, hear your feedback, or just have a casual chat about web development. If my projects spark your interest, don't be shy — let's connect and create something awesome together! 🤝
+✨ **Friendly Reminder** : I'm always excited to collaborate, hear your feedback, or just have a casual chat about web development. If my projects spark your interest, don't be shy — let's connect and create something awesome together! 🤗
 
 

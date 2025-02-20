@@ -42,17 +42,17 @@ const dwiwijaya = new Dwiwijaya();
 console.log(dwiwijaya.getProfile());
 
 ```
-## Github Stastistic
+## Github Stastistic 🚀
 
-![dwiwijaya's github stats](https://github-readme-stats.vercel.app/api?username=dwiwijaya&show_icons=true&count_private=true&theme=dark)
+![dwiwijaya's github stats](https://github-readme-stats.vercel.app/api?username=dwiwijaya&show_icons=true&count_private=true&theme=github_dark_dimmed )
 
-## Get in touch 🌐
+## Get in touch 📬
 
-- Email: hello@dwiwijaya.com
-- Website: www.dwiwijaya.com
-- Links: www.bento.me/dwiwijaya
-- Resume: www.bit.ly/cv-dwiwijaya
-- Linked-in: www.linkedin.com/in/dwi-wijaya 
+- 📧 Email : hello@dwiwijaya.com
+- 🌐 Website : www.dwiwijaya.com
+- 🔗 Links : www.bento.me/dwiwijaya
+- 📄 Resume : www.bit.ly/cv-dwiwijaya
+- 💼 Linked-in : www.linkedin.com/in/dwi-wijaya 
 
 
 

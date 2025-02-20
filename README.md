@@ -44,7 +44,8 @@ console.log(dwiwijaya.getProfile());
 ```
 ## Github Stastistic 🚀
 
-![dwiwijaya's github stats](https://github-readme-stats.vercel.app/api?username=dwiwijaya&show_icons=true&count_private=true&theme=github_dark_dimmed )
+![dwiwijaya's Stats](https://github-readme-stats.vercel.app/api?username=dwiwijaya&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+![dwiwijaya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dwiwijaya&theme=material-palenight&hide_border=true)
 
 ## Get in touch 📬
 
@@ -57,3 +58,7 @@ console.log(dwiwijaya.getProfile());
 
 
 [![](https://visitcount.itsvg.in/api?id=dwi-wijaya&icon=2&color=3)](https://visitcount.itsvg.in)
+
+🌟 **Friendly Reminder**: I'm always excited to collaborate, hear your feedback, or just have a casual chat about web development. If my projects spark your interest, don't be shy — let's connect and create something awesome together! 🤝
+
+

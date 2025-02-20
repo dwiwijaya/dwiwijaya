@@ -51,7 +51,7 @@ console.log(dwiwijaya.getProfile());
 - 📄 Resume : www.bit.ly/cv-dwiwijaya
 - 💼 Linked-in : www.linkedin.com/in/dwi-wijaya 
 
-<br>
+
 🌟 **Friendly Reminder**: I'm always excited to collaborate, hear your feedback, or just have a casual chat about web development. If my projects spark your interest, don't be shy — let's connect and create something awesome together! 🤝
 
 

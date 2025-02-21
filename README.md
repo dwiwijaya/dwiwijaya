@@ -6,7 +6,7 @@ class Dwiwijaya {
         this.name = 'Dwi-wijaya';
         this.username = 'dwiwijaya';
         this.position = 'Full-stack Web Developer';
-        this.linkedin = 'www.linkedin.com/in/dwi-wijaya';
+        this.linkedin = 'www.linkedin.com/in/dwiwijaya';
         this.resume = 'www.bit.ly/cv-dwiwijaya';
         this.links = 'www.bento.me/dwiwijaya';
         this.website = 'www.dwiwijaya.com';
@@ -49,7 +49,7 @@ console.log(dwiwijaya.getProfile());
 - 🌐 Website : www.dwiwijaya.com
 - 🔗 Links : www.bento.me/dwiwijaya
 - 📄 Resume : www.bit.ly/cv-dwiwijaya
-- 💼 Linked-in : www.linkedin.com/in/dwi-wijaya 
+- 💼 Linked-in : www.linkedin.com/in/dwiwijaya 
 
 ##
 

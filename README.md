@@ -5,12 +5,7 @@ class Dwiwijaya {
     constructor() {
         this.name = 'Dwi-wijaya';
         this.username = 'dwiwijaya';
-        this.position = 'Full-stack Web Developer';
-        this.linkedin = 'www.linkedin.com/in/dwiwijaya';
-        this.resume = 'www.bit.ly/cv-dwiwijaya';
-        this.links = 'www.bento.me/dwiwijaya';
-        this.website = 'www.dwiwijaya.com';
-        this.email = 'hello@dwiwijaya.com';
+        this.position = 'Full-stack Web Developer',
         this.openToOpportunities = true;
         this.skills = {
             languages: ['PHP', 'JavaScript', 'TypeScript', 'SQL'],
